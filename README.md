@@ -4,7 +4,7 @@
 
 This repository is reserved for the official implementation of our paper:  
 **"CDFM: Training-Free Co-Optimized Conditional Diffusion Model for General Image Fusion"**  
-Submitted to Information Fusion 2025
+Submitted to Information Fusion
 
 ---
 
@@ -21,8 +21,6 @@ We strongly believe in open research and have consistently released code for our
 
 - **LDRepFM** – "LDRepFM: A Real-Time End-to-End Visible and Infrared Image Fusion Model Based on Layer Decomposition and Re-Parameterization" (IEEE TIM)  
   📄 [Paper](https://github.com/luming1314/LDRepFM) | 💻 [Code](https://github.com/luming1314/LDRepFM)  
-
-> This demonstrates our commitment to transparency and reproducibility in machine learning research.
 
 ---
 
