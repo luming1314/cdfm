@@ -14,8 +14,6 @@ This study introduces CDFM, a training-free and general-purpose framework design
 
 ## ✅ Our Track Record in Open-Sourcing
 
-We strongly believe in open research and have consistently released code for our prior projects:
-
 - **AU-Net** – "AU-Net: Adaptive Unified Network for Joint Multi-modal Image Registration and Fusion" (IEEE TIP)  
   📄 [Paper](https://doi.org/10.1109/TIP.2025.3586507) | 💻 [Code](https://github.com/luming1314/AU-Net)  
 
