@@ -23,6 +23,6 @@ This study introduces CDFM, a training-free and general-purpose framework design
 ---
 
 ## 📬 Contact
-For inquiries, please contact minglu@stu.jiangnan.edu.cn or visit [https://luming1314.github.io/](https://luming1314.github.io/).
+For inquiries, please contact minglu@stu.jiangnan.edu.cn (wechat: luming-2077 is also welcomed) or visit [https://luming1314.github.io/](https://luming1314.github.io/).
 
 ---
