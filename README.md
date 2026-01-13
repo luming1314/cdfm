@@ -4,7 +4,7 @@
 
 This repository is reserved for the official implementation of our paper:  
 **"CDFM: Training-Free Co-Optimized Conditional Diffusion Model for General Image Fusion"**  
-Submitted to XXX
+Submitted to IEEE TIC
 
 ---
 
