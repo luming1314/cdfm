@@ -2,9 +2,6 @@
 
 > **Note**: The source code for this work will be open-sourced upon paper acceptance.
 
-This repository is reserved for the official implementation of our paper:  
-**"CDFM: Training-Free Co-Optimized Conditional Diffusion Model for General Image Fusion"**  
-Submitted to IEEE TIC
 
 ---
 
