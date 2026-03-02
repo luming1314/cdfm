@@ -1,5 +1,4 @@
-# CDFM: Training-Free Co-Optimized Conditional Diffusion Model for General Image Fusion
-
+# CDFM
 > **Note**: The source code for this work will be open-sourced upon paper acceptance.
 
 
