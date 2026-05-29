@@ -1,5 +1,5 @@
 <div align="center">
-<h1>CDFM: A Training-free Co-optimized Conditional Diffusion Model </br> for Multi-source Image Fusion</h1>
+<h1>A Training-free Co-optimized Conditional Diffusion Model </br> for Multi-source Image Fusion</h1>
 
 [**Ming Lu**](https://luming1314.github.io/), Min Jiang, Shengchen Zhu, Jun Kong <br>
 
