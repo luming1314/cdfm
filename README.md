@@ -1,24 +1,47 @@
-# CDFM
-> **Note**: The source code for this work will be open-sourced upon paper acceptance.
+<div align="center">
+<h1>CDFM: A Training-free Co-optimized Conditional Diffusion Model </br> for Multi-source Image Fusion</h1>
 
+[**Ming Lu**](https://luming1314.github.io/), Min Jiang, Shengchen Zhu, Jun Kong <br>
 
----
+Jiangnan University
 
-## 🔍 About This Work
-This study introduces CDFM, a training-free and general-purpose framework designed to eliminate task-specific training in image fusion.
----
+<a href='https://doi.org/10.1016/j.optlaseng.2026.109897'><img src='https://img.shields.io/badge/DOI-10.1016%2Fj.optlaseng.2026.109897-blue'></a>
 
-## ✅ Our Track Record in Open-Sourcing
+</div>
 
-- **AU-Net** – "AU-Net: Adaptive Unified Network for Joint Multi-modal Image Registration and Fusion" (IEEE TIP)  
-  📄 [Paper](https://doi.org/10.1109/TIP.2025.3586507) | 💻 [Code](https://github.com/luming1314/AU-Net)  
+**Code is currently being organized and will be uploaded soon.**
 
-- **LDRepFM** – "LDRepFM: A Real-Time End-to-End Visible and Infrared Image Fusion Model Based on Layer Decomposition and Re-Parameterization" (IEEE TIM)  
-  📄 [Paper](https://github.com/luming1314/LDRepFM) | 💻 [Code](https://github.com/luming1314/LDRepFM)  
+## 📄 Paper
 
----
+**A training-free co-optimized conditional diffusion model for multi-source image fusion**
+Ming Lu, Min Jiang, Shengchen Zhu, Jun Kong
+
+*Optics and Lasers in Engineering*, Volume 205, 109897, 2026.
+
+📄 [Paper](https://doi.org/10.1016/j.optlaseng.2026.109897)
 
 ## 📬 Contact
-For inquiries, please contact minglu@stu.jiangnan.edu.cn (wechat: luming-2077 is also welcomed) or visit [https://luming1314.github.io/](https://luming1314.github.io/).
 
----
+For inquiries, please contact **[minglu@stu.jiangnan.edu.cn](mailto:minglu@stu.jiangnan.edu.cn)**.
+WeChat: **luming-2077** is also welcomed.
+
+Homepage: https://luming1314.github.io/
+
+## 🎓 Citation
+
+If CDFM is helpful to your work, please cite our paper via:
+
+```bibtex
+@article{LU2026109897,
+  title = {A training-free co-optimized conditional diffusion model for multi-source image fusion},
+  journal = {Optics and Lasers in Engineering},
+  volume = {205},
+  pages = {109897},
+  year = {2026},
+  issn = {0143-8166},
+  doi = {https://doi.org/10.1016/j.optlaseng.2026.109897},
+  url = {https://www.sciencedirect.com/science/article/pii/S0143816626003015},
+  author = {Ming Lu and Min Jiang and Shengchen Zhu and Jun Kong},
+  keywords = {Infrared-visible, Multi-focus, Multi-exposure, Image fusion, Diffusion model, Deep learning}
+}
+```
