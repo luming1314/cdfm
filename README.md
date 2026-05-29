@@ -11,14 +11,6 @@ Jiangnan University
 
 **Code is currently being organized and will be uploaded soon.**
 
-## 📄 Paper
-
-**A training-free co-optimized conditional diffusion model for multi-source image fusion**
-Ming Lu, Min Jiang, Shengchen Zhu, Jun Kong
-
-*Optics and Lasers in Engineering*, Volume 205, 109897, 2026.
-
-📄 [Paper](https://doi.org/10.1016/j.optlaseng.2026.109897)
 
 ## 📬 Contact
 
