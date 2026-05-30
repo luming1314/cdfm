@@ -9,7 +9,43 @@ Jiangnan University
 
 </div>
 
-**Code is currently being organized and will be uploaded soon.**
+## ✨ Usage
+
+### Quick start
+#### 1. Clone this repo and setting up environment
+```sh
+git https://github.com/luming1314/cdfm.git
+cd cdfm
+conda create -n cdfm python=3.8 -y
+conda activate cdfm
+pip install -r requirements.txt
+```
+
+#### 2. Download pre-trained models
+* Please download the pre-trained checkpoint `256x256_diffusion_uncond.pt` from [link](https://github.com/openai/guided-diffusion) and place it in `./weight/exp/pre_model`.
+* For better reproducibility, we recommend downloading the fixed random noise from [link](https://pan.baidu.com/s/1xkNkXLw5hA8h_gBQEy8H-w?pwd=6vsu) (extraction code: 6vsu) and placing it in `./fixed_seed/`.
+
+#### 3. Run the Demo
+Run the demo with the following command:
+
+```shell
+sh run_demo.sh
+```
+
+#### 4. Testing on All Datasets
+Please download the datasets from [this link](https://pan.baidu.com/s/19VaOkEr5enLxnGCBlTjHGg?pwd=fxvq) with the extraction code `fxvq`.
+
+To test all datasets, run the following command:
+
+```shell
+sh test_datasets.sh
+```
+
+## 👏 Acknowledgment
+Our work is standing on the shoulders of giants. We want to thank the following contributors that our code is based on:
+* DDFM: https://github.com/Zhaozixiang1228/MMIF-DDFM
+* FreeDoM: https://github.com/yujiwen/FreeDoM
+
 
 
 ## 📬 Contact

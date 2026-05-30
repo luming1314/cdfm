@@ -1,0 +1,1 @@
+['FLIR_06862.png', 'FLIR_06763.png', 'FLIR_07202.png', 'FLIR_08592.png', 'FLIR_06407.png', 'FLIR_07225.png', 'FLIR_06236.png', 'FLIR_05697.png', 'FLIR_06775.png', 'FLIR_06570.png', 'FLIR_06506.png', 'FLIR_06065.png', 'FLIR_06392.png']
